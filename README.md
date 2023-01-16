@@ -1,5 +1,5 @@
-#### Felica Enabler for Renoir
-Felica enable patch for M2101K9R users.
+#### Felica Enabler for Iris
+Redmi Note 10 JE FeliCa Module
 
 #### NOTICE
 
