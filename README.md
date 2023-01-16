@@ -1,6 +1,6 @@
-#### Felica Enabler for Iris
+# Felica Enabler for Iris
 Redmi Note 10 JE FeliCa Module
 
-#### NOTICE
+## NOTICE
 
-do not add  any Felica apps into Deny List
+Do not add any Felica apps into DenyList
